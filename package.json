@@ -1,0 +1,27 @@
+{
+  "name": "vue-router-slider",
+  "version": "0.0.1",
+  "description": "Add slide transition to vue router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/panhaooyu/vue-router-slider.git"
+  },
+  "keywords": [
+    "vue",
+    "route",
+    "slide",
+    "swipe",
+    "util",
+    "useful"
+  ],
+  "author": "panhaoyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panhaooyu/vue-router-slider/issues"
+  },
+  "homepage": "https://github.com/panhaooyu/vue-router-slider#readme"
+}

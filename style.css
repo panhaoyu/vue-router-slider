@@ -1,0 +1,21 @@
+.router-slider > .router-page {
+  transition: all 0.5s;
+}
+
+.router-left-enter, .router-right-leave-active {
+  opacity: 0;
+  transform: translate(-80%, 0);
+}
+
+.router-left-leave-active, .router-right-enter {
+  opacity: 0;
+  transform: translate(80%, 0);
+}
+
+.router-page {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
